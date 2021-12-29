@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Main on Binis Blog</title>
+    <link>http://example.com/</link>
+    <description>Recent content in Main on Binis Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tbd@gmail.com (Sabine Lienhard)</managingEditor>
+    <webMaster>tbd@gmail.com (Sabine Lienhard)</webMaster>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pilgern</title>
+      <link>http://example.com/pilgern/</link>
+      <pubDate>Wed, 29 Dec 2021 18:57:14 +0100</pubDate>
+      <author>tbd@gmail.com (Sabine Lienhard)</author>
+      <guid>http://example.com/pilgern/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed ante ipsum. Phasellus ultricies euismod iaculis. Morbi consectetur consectetur libero, quis feugiat magna imperdiet id. Sed auctor facilisis libero eu mattis. Sed quis elit in purus pretium dapibus vitae id risus. Nam velit orci, tempor a ipsum ut, imperdiet semper diam. Nunc ut orci eu diam consectetur varius in ac arcu. Cras pretium ornare tortor, vel ornare nibh mollis at. Donec ac porta erat.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.com/about/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>tbd@gmail.com (Sabine Lienhard)</author>
+      <guid>http://example.com/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://example.com/markdown-syntax/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>tbd@gmail.com (Sabine Lienhard)</author>
+      <guid>http://example.com/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Theme Source</title>
+      <link>http://example.com/redir/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>tbd@gmail.com (Sabine Lienhard)</author>
+      <guid>http://example.com/redir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://example.com/emoji-support/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>tbd@gmail.com (Sabine Lienhard)</author>
+      <guid>http://example.com/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://example.com/rich-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>tbd@gmail.com (Sabine Lienhard)</author>
+      <guid>http://example.com/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
